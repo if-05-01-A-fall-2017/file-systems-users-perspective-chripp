@@ -3,7 +3,7 @@
 #include <fcntl.h>
 #include <sys/stat.h>
 #include <stdlib.h>
-#define MAX_N 2
+#define MAX_N 200
 
 struct stat at;
 
